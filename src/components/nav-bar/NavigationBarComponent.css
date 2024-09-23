@@ -1,0 +1,46 @@
+.card-container {
+  background-color: #e2faed;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 10px;
+  border-color: bisque;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.App-logo {
+  height: 100px;
+  width: 100px;
+}
+
+.logo {
+  width: 5%;
+}
+.Header {
+  text-align: center;
+  width: 70%;
+}
+
+.highlighted {
+  background-color: white;
+  display: inline;
+  padding: 8px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.nav-links ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.nav-links ul li {
+  padding: 10px 20px;
+  margin: 0 10px;
+  background-color: white;
+  color: black;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
